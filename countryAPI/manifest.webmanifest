@@ -1,0 +1,11 @@
+{
+    "lang": "fr",
+    "name": "Country API",
+    "description": "Country API pretty",
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#000000",
+    "background_color": "#1e90ff"
+}
